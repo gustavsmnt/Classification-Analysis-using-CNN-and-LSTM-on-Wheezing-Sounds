@@ -1,0 +1,4 @@
+
+LINK DATA & PROGRAM TUGAS AKHIR 1301154112 GUSTAV BAGUS SAMANTA
+
+https://github.com/gustavsmnt/Classification-Analysis-using-CNN-and-LSTM-on-Wheezing-Sounds.git
